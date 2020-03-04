@@ -10,7 +10,7 @@ Nota de uso:
 
 Como funciona?
   - Entrada:
-    \nO programa utiliza o caracter "1" como interrupitor.
-    \nO programa utiliza o caracter "0" para encerra a coneção com a placa.
+    O programa utiliza o caracter "1" como interrupitor.
+    O programa utiliza o caracter "0" para encerra a coneção com a placa.
   - Saída:
-    \nO LED pode assumir os estados 1 (on) ou 0 (off).
+    O LED pode assumir os estados 1 (on) ou 0 (off).
