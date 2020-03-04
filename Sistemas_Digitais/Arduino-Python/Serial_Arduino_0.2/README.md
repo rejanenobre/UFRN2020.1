@@ -9,8 +9,8 @@ Nota de uso:
  - Execute o programa em Python.
 
 Como funciona?
-  Entrada:
-    O programa utiliza o caracter "1" como interrupitor.
-    O programa utiliza o caracter "0" para encerra a coneção com a placa.
-  Saída:
-    O LED pode assumir os estados 1 (on) ou 0 (off).
+  - Entrada:
+    \nO programa utiliza o caracter "1" como interrupitor.
+    \nO programa utiliza o caracter "0" para encerra a coneção com a placa.
+  - Saída:
+    \nO LED pode assumir os estados 1 (on) ou 0 (off).
